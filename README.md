@@ -27,11 +27,12 @@ Welcome to my personal portfolio and role-specific resume repository. This repos
 
 Select the resume tailored to the domain you are hiring for:
 
-| Track / Specialization | Direct File Link | Core Focus & Highlights |
-| :--- | :--- | :--- |
-| **💻 Software Development Engineer (SDE)** | [Download SDE Resume (PDF)](./SudeepReddy_Resume_SDE.pdf) | Java NIO, Multithreading, Concurrency, REST APIs, Microservices, System Design (HLD/LLD), Data Structures & Algorithms |
-| **☁️ DevOps & Cloud Engineering** | [Download DevOps Resume (PDF)](./SudeepReddy_Resume_Devops.pdf) | Kubernetes, Docker, Jenkins CI/CD, AWS EC2, Terraform IaC, Prometheus, Grafana, Observability |
-| **📊 Data Science & Machine Learning** | [Download Data Science Resume (PDF)](./SudeepReddy_Resume_Datascience.pdf) | Predictive Analytics, Scikit-Learn, FastAPI, Python, Power BI, DAX, Feature Engineering, ETL Pipelines |
+| Track / Specialization | Display in Browser | Direct Download | Core Focus & Highlights |
+| :--- | :--- | :--- | :--- |
+| **💻 Software Development Engineer (SDE)** | [Display SDE Resume ↗](https://github.com/SudeepReddyEaga/Portfolio_CV/blob/main/SudeepReddy_Resume_SDE.pdf) | [Download PDF ⬇](./SudeepReddy_Resume_SDE.pdf) | Java NIO, Multithreading, Concurrency, REST APIs, Microservices, System Design (HLD/LLD), Data Structures & Algorithms |
+| **☁️ DevOps & Cloud Engineering** | [Display DevOps Resume ↗](https://github.com/SudeepReddyEaga/Portfolio_CV/blob/main/SudeepReddy_Resume_Devops.pdf) | [Download PDF ⬇](./SudeepReddy_Resume_Devops.pdf) | Kubernetes, Docker, Jenkins CI/CD, AWS EC2, Terraform IaC, Prometheus, Grafana, Observability |
+| **📊 Data Science & Machine Learning** | [Display Data Science Resume ↗](https://github.com/SudeepReddyEaga/Portfolio_CV/blob/main/SudeepReddy_Resume_Datascience.pdf) | [Download PDF ⬇](./SudeepReddy_Resume_Datascience.pdf) | Predictive Analytics, Scikit-Learn, FastAPI, Python, Power BI, DAX, Feature Engineering, ETL Pipelines |
+
 
 ---
 
